@@ -8,4 +8,6 @@ The basic steps I took in creating this quick rails API were as follows:
 
 3. I also threw a quick edit in the seed file afterwards, so it would be easier for you to seed the db for testing purposes. 
 
-4. I really wasn't 100% sure on how to call the range context
+4. I really wasn't 100% sure on how to deal with the range, so I'd love to hear back on that from you guys. Thank you!
+
+Mike
